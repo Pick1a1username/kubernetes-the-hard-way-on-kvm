@@ -289,4 +289,4 @@ $ for target in $(cat target_hosts); do ssh -t -i ~/.ssh/id_rsa-k8s ${USER}@${ta
 You will be asked to enter password of the user(ID) of each virtual machine.
 
 
-Next: [Installing the Client Tools](docs/03-client-tools.md)
+Next: [Installing the Client Tools](03-client-tools.md)
